@@ -5,3 +5,4 @@ set(CMAKE CXX STANDARD REQUIRED ON)
 
 project (TODO)
 add_subdirectory (src)
+add_subdirectory (tests)
